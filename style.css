@@ -186,7 +186,6 @@ a:hover, a:active {
     color: #fff !important;
 }
 
-@media screen and (min-width: 992px) {
     .site-navigation ul {
         position: relative;
         top: auto;
@@ -202,7 +201,7 @@ a:hover, a:active {
     .site-navigation ul li a {
         padding: 30px 0;
     }
-}
+
 
 .site-navigation ul li a:hover,
 .site-navigation ul li.current-menu-item a {
